@@ -11,3 +11,5 @@ name="Udit" #name is a variable
 
 echo "Name is $name and date is $(date)"
 
+echo "hello"
+
